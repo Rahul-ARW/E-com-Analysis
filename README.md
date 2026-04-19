@@ -1,5 +1,7 @@
 ## Contents
 
+Some of the files have been redacted due to privacy concerns.
+
 ### CSV dataset files
 - customers.csv
 - categories.csv
