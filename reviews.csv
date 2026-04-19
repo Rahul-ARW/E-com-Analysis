@@ -1,0 +1,1360 @@
+review_id,order_id,product_id,customer_id,rating,review_title,review_text,review_date
+1,1,12,144,3,Poor quality,,2025-07-22
+2,2,237,188,4,Not worth it,Packaging could improve,2025-04-15
+3,3,411,1645,5,Not worth it,Value for money,2024-10-06
+4,15,127,1608,4,Not worth it,Packaging could improve,2024-12-27
+5,16,282,1404,3,Fast delivery,,2024-04-27
+6,25,236,1419,5,Would buy again,Value for money,2024-02-10
+7,26,217,769,3,Would buy again,Packaging could improve,2025-03-29
+8,27,62,1502,4,Not worth it,Packaging could improve,2025-10-27
+9,30,286,1374,5,Average experience,,2025-05-28
+10,35,150,75,4,As expected,,2026-01-20
+11,36,145,1039,5,Excellent,Delivery was slower than expected,2024-05-12
+12,47,29,1104,4,As expected,,2025-04-18
+13,50,248,68,2,Great value,Packaging could improve,2024-05-22
+14,53,254,937,4,As expected,,2025-01-04
+15,55,84,462,5,Excellent,,2024-10-18
+16,56,191,95,5,Fast delivery,,2024-08-24
+17,59,35,687,5,Excellent,,2025-09-30
+18,62,2,1267,4,Loved it,Product matched the description,2024-10-03
+19,63,118,1408,4,Not worth it,Product matched the description,2025-05-18
+20,65,300,776,3,As expected,,2025-01-04
+21,69,76,1406,4,As expected,,2024-05-17
+22,71,235,171,4,Disappointed,Packaging could improve,2025-12-10
+23,72,373,1280,4,Fast delivery,,2024-10-23
+24,78,410,503,4,Average experience,Product matched the description,2024-09-06
+25,80,408,989,5,Great value,Delivery was slower than expected,2025-08-11
+26,81,413,145,5,Excellent,,2025-04-25
+27,82,18,359,4,Fast delivery,,2025-12-20
+28,90,102,517,3,Great value,Packaging could improve,2025-10-12
+29,93,241,230,4,Would buy again,Packaging could improve,2025-05-19
+30,99,110,122,5,As expected,,2025-04-09
+31,100,218,1389,5,Disappointed,Packaging could improve,2024-09-17
+32,102,368,1252,3,Disappointed,,2026-01-16
+33,104,110,985,5,As expected,,2024-12-08
+34,105,152,459,3,Loved it,,2026-01-22
+35,110,110,369,4,Fast delivery,,2025-03-22
+36,111,206,1012,4,Excellent,Delivery was slower than expected,2025-05-02
+37,112,225,1305,5,As expected,Packaging could improve,2025-06-23
+38,113,374,1535,4,Loved it,Delivery was slower than expected,2025-03-03
+39,117,22,544,4,Loved it,,2025-06-26
+40,118,286,4,4,Average experience,Value for money,2024-02-28
+41,119,5,1032,1,Loved it,Packaging could improve,2024-11-23
+42,121,246,691,4,Average experience,Delivery was slower than expected,2024-07-19
+43,124,227,1126,5,Disappointed,,2024-02-14
+44,127,171,661,5,As expected,,2024-08-25
+45,129,381,169,4,Disappointed,,2024-12-13
+46,130,167,99,5,Poor quality,,2024-11-25
+47,132,140,528,5,Great value,Product matched the description,2025-12-12
+48,133,126,1051,4,Loved it,Product matched the description,2024-02-25
+49,144,9,1712,4,As expected,Packaging could improve,2024-12-25
+50,147,168,275,4,Average experience,,2025-10-08
+51,148,258,740,4,Disappointed,,2024-08-09
+52,149,365,1124,5,Not worth it,,2025-10-30
+53,155,269,993,4,As expected,,2025-09-15
+54,156,12,727,3,As expected,,2024-11-22
+55,157,250,707,3,Great value,Delivery was slower than expected,2025-02-21
+56,159,214,1666,5,Excellent,Product matched the description,2024-11-26
+57,162,146,167,2,Excellent,Value for money,2025-01-01
+58,163,68,810,3,Excellent,Value for money,2025-12-02
+59,164,210,424,5,Loved it,,2026-01-28
+60,165,180,1622,1,Great value,Product matched the description,2025-02-11
+61,166,199,1391,5,Great value,,2025-02-15
+62,170,112,1434,3,Average experience,,2026-01-19
+63,175,119,14,3,Disappointed,,2024-03-25
+64,181,173,1564,3,Loved it,,2024-12-14
+65,183,15,982,5,Great value,,2024-04-26
+66,185,179,379,4,Excellent,,2025-05-09
+67,186,155,732,4,Loved it,Packaging could improve,2026-02-07
+68,187,216,619,4,Poor quality,,2025-03-02
+69,190,221,444,4,As expected,,2024-06-26
+70,191,396,266,5,Not worth it,Delivery was slower than expected,2026-01-06
+71,192,18,304,5,Great value,,2025-07-15
+72,195,77,1065,4,Poor quality,,2025-11-09
+73,196,237,321,4,Would buy again,Delivery was slower than expected,2025-07-24
+74,197,8,714,3,Fast delivery,,2024-07-16
+75,200,395,515,3,Loved it,,2024-09-05
+76,203,241,150,5,Not worth it,,2025-10-25
+77,208,212,460,3,Not worth it,,2025-05-31
+78,211,294,809,4,Excellent,,2025-10-27
+79,216,312,1600,4,As expected,,2024-11-22
+80,218,92,382,4,As expected,Packaging could improve,2024-12-27
+81,219,248,1647,5,Loved it,Product matched the description,2024-11-08
+82,222,93,1010,5,Poor quality,Delivery was slower than expected,2024-07-25
+83,223,127,1451,2,As expected,,2026-01-11
+84,225,217,608,3,Great value,,2024-11-22
+85,232,307,1214,5,Excellent,,2024-10-08
+86,237,410,1461,5,Loved it,Product matched the description,2025-08-21
+87,245,235,1446,3,Not worth it,Product matched the description,2025-05-03
+88,247,171,1795,4,Excellent,Product matched the description,2025-08-09
+89,249,375,979,5,Average experience,Value for money,2024-04-02
+90,252,301,1756,3,Loved it,Product matched the description,2025-08-05
+91,255,345,572,4,Poor quality,,2025-01-25
+92,256,246,312,4,Great value,,2024-12-04
+93,258,223,955,5,Poor quality,,2025-10-05
+94,260,45,1630,5,Disappointed,Product matched the description,2025-07-16
+95,262,358,1841,4,Disappointed,,2024-06-22
+96,265,231,851,3,Not worth it,,2025-09-12
+97,266,373,94,5,Disappointed,Product matched the description,2024-11-30
+98,268,169,1085,4,Excellent,,2024-12-18
+99,270,332,1037,3,Excellent,Value for money,2025-04-16
+100,271,172,29,5,Loved it,Packaging could improve,2025-12-20
+101,272,129,1276,3,Disappointed,Value for money,2024-03-31
+102,273,172,1789,4,Would buy again,,2025-11-07
+103,277,254,126,5,Great value,,2024-09-11
+104,283,6,1411,3,Poor quality,Value for money,2025-12-15
+105,286,292,492,3,Average experience,Delivery was slower than expected,2025-06-16
+106,292,161,378,3,Would buy again,,2025-08-08
+107,295,298,987,4,Average experience,Product matched the description,2024-04-05
+108,302,285,1579,3,Would buy again,,2025-03-08
+109,303,268,871,4,Average experience,Packaging could improve,2025-11-26
+110,308,84,735,4,Loved it,Delivery was slower than expected,2024-12-28
+111,309,409,1399,4,Great value,,2024-08-07
+112,310,190,1182,5,Average experience,,2026-01-06
+113,314,298,1076,4,Loved it,Product matched the description,2025-05-03
+114,320,341,1021,4,Would buy again,,2025-02-20
+115,321,76,1117,4,Average experience,Value for money,2024-10-03
+116,327,40,743,5,As expected,,2024-03-30
+117,328,128,1220,5,Average experience,,2024-04-15
+118,330,211,1609,3,Would buy again,,2024-04-08
+119,332,126,1692,3,Poor quality,,2025-09-24
+120,336,296,1599,5,Excellent,,2024-07-26
+121,338,63,1616,4,Not worth it,Product matched the description,2025-03-15
+122,339,288,61,3,Poor quality,,2025-12-29
+123,340,211,1430,5,Loved it,,2024-04-13
+124,341,197,1202,4,Poor quality,,2024-11-19
+125,342,417,513,5,Loved it,,2025-03-18
+126,343,252,508,4,Disappointed,,2025-03-16
+127,344,87,193,5,Loved it,Product matched the description,2025-01-23
+128,345,306,981,3,Excellent,,2026-01-22
+129,351,112,560,4,Disappointed,,2025-11-12
+130,352,4,469,4,Poor quality,,2024-08-15
+131,356,181,1353,4,Fast delivery,Value for money,2024-09-18
+132,358,31,1347,4,Would buy again,Delivery was slower than expected,2025-05-08
+133,359,414,96,3,Loved it,Value for money,2025-01-28
+134,360,345,1396,3,Fast delivery,Value for money,2025-05-23
+135,361,204,1726,4,As expected,,2025-11-08
+136,363,102,1730,4,Loved it,,2025-07-31
+137,364,323,117,3,Would buy again,Product matched the description,2025-07-22
+138,365,291,1415,3,Poor quality,,2025-09-08
+139,367,173,1761,4,As expected,,2024-11-14
+140,368,200,1377,4,Disappointed,Packaging could improve,2025-05-01
+141,373,386,1736,5,Would buy again,Product matched the description,2025-09-02
+142,376,287,808,3,Not worth it,Packaging could improve,2024-05-18
+143,378,52,1325,5,As expected,Packaging could improve,2025-04-12
+144,379,107,1122,2,Poor quality,,2024-11-02
+145,380,175,1152,4,Loved it,Product matched the description,2024-03-13
+146,381,65,1056,4,Loved it,Product matched the description,2025-12-04
+147,382,15,758,4,Would buy again,,2026-01-14
+148,383,91,1319,4,Disappointed,Value for money,2025-01-01
+149,386,159,486,4,Loved it,,2024-03-06
+150,388,288,359,3,Great value,,2025-06-08
+151,390,330,1644,5,Loved it,,2024-08-31
+152,395,221,1678,4,Loved it,,2024-08-01
+153,396,31,674,3,Disappointed,,2026-01-12
+154,398,372,1442,4,Loved it,Value for money,2024-12-16
+155,411,3,1337,4,Loved it,Value for money,2024-08-25
+156,414,124,1559,4,Would buy again,,2025-09-20
+157,415,345,300,5,As expected,,2025-10-24
+158,417,347,251,3,Excellent,Delivery was slower than expected,2024-05-09
+159,418,72,1072,5,Excellent,Value for money,2025-05-27
+160,422,261,1051,2,Poor quality,Delivery was slower than expected,2025-02-06
+161,423,268,1190,4,Average experience,,2025-01-10
+162,424,187,619,3,Not worth it,,2024-02-16
+163,425,85,1035,5,Average experience,Value for money,2025-09-18
+164,426,404,211,5,As expected,,2024-09-12
+165,428,293,750,4,Poor quality,Packaging could improve,2024-04-26
+166,433,418,972,4,Poor quality,Packaging could improve,2025-11-06
+167,434,271,540,5,Poor quality,,2024-11-30
+168,435,89,608,5,Loved it,,2025-04-08
+169,436,365,607,3,Poor quality,Value for money,2025-11-05
+170,437,159,1744,5,Poor quality,,2025-07-13
+171,438,195,135,5,Would buy again,,2024-12-02
+172,441,103,13,4,Poor quality,Packaging could improve,2026-01-20
+173,459,353,159,5,Loved it,Delivery was slower than expected,2025-05-20
+174,460,141,1690,5,Not worth it,Product matched the description,2024-03-26
+175,461,5,1782,5,Great value,,2024-10-07
+176,464,350,851,4,Poor quality,Product matched the description,2025-01-04
+177,468,320,151,4,Not worth it,,2025-01-29
+178,473,315,1699,4,Average experience,,2025-01-07
+179,475,13,1688,5,Poor quality,Product matched the description,2025-03-09
+180,481,4,356,4,Loved it,Packaging could improve,2025-07-07
+181,483,325,121,5,Average experience,,2025-09-29
+182,486,261,1618,4,Would buy again,,2024-07-19
+183,489,412,328,4,Loved it,Product matched the description,2024-08-09
+184,490,251,1798,5,Would buy again,Value for money,2024-11-25
+185,493,121,1621,4,Disappointed,Delivery was slower than expected,2024-11-06
+186,494,384,1064,4,Would buy again,Packaging could improve,2024-11-15
+187,496,80,1712,5,Loved it,,2025-10-30
+188,498,70,72,3,Would buy again,,2025-01-20
+189,500,154,1793,4,Disappointed,,2025-01-08
+190,502,405,1770,5,Loved it,,2025-03-28
+191,504,181,1011,3,Disappointed,,2025-06-21
+192,508,167,519,3,Disappointed,Value for money,2025-08-31
+193,511,325,114,5,Excellent,,2025-08-20
+194,513,163,715,5,Poor quality,,2024-01-27
+195,514,41,1657,4,Great value,Delivery was slower than expected,2024-11-16
+196,516,45,134,5,Excellent,Delivery was slower than expected,2024-06-23
+197,523,105,324,4,Average experience,,2025-07-25
+198,528,210,411,5,Not worth it,Value for money,2024-09-02
+199,529,157,945,5,Average experience,Value for money,2026-01-26
+200,535,371,1154,4,Great value,Product matched the description,2025-11-22
+201,536,235,1203,4,Fast delivery,,2024-11-17
+202,540,333,617,2,Average experience,,2025-12-30
+203,542,322,756,3,Not worth it,Delivery was slower than expected,2024-10-22
+204,546,70,759,5,Loved it,,2025-07-12
+205,548,121,1264,3,Excellent,Packaging could improve,2024-05-26
+206,551,328,691,4,Not worth it,,2024-11-16
+207,556,183,1749,4,Disappointed,,2024-06-26
+208,560,220,543,4,Loved it,,2024-07-20
+209,563,283,604,4,Great value,,2025-09-21
+210,566,119,204,2,Great value,Delivery was slower than expected,2024-02-23
+211,570,315,337,3,Excellent,Packaging could improve,2025-06-20
+212,572,178,461,5,As expected,Packaging could improve,2024-08-31
+213,578,182,886,4,Would buy again,,2026-01-17
+214,583,318,516,4,Would buy again,Delivery was slower than expected,2025-10-02
+215,584,17,611,4,As expected,,2025-09-22
+216,586,31,1398,4,Fast delivery,Value for money,2025-09-22
+217,590,327,246,5,Loved it,,2025-05-03
+218,591,139,159,3,Poor quality,,2025-04-29
+219,596,175,446,5,Poor quality,,2025-11-22
+220,597,299,284,5,As expected,,2025-04-05
+221,602,291,243,4,Not worth it,,2025-09-15
+222,603,117,1081,4,As expected,Packaging could improve,2024-07-28
+223,605,311,1090,5,Excellent,,2025-04-09
+224,608,14,291,4,Disappointed,,2025-11-11
+225,609,46,167,5,Loved it,Value for money,2025-07-17
+226,612,154,677,4,Average experience,,2025-04-03
+227,614,291,1793,4,Disappointed,,2024-08-07
+228,617,136,1222,4,Great value,Delivery was slower than expected,2025-07-09
+229,619,359,1574,4,Would buy again,Value for money,2025-01-02
+230,622,330,1003,3,Not worth it,Product matched the description,2025-01-17
+231,624,416,745,3,Poor quality,Packaging could improve,2024-09-28
+232,627,275,1614,5,Loved it,Delivery was slower than expected,2025-12-29
+233,628,208,69,4,As expected,,2024-08-11
+234,631,213,1067,5,Would buy again,Delivery was slower than expected,2024-03-23
+235,642,155,839,4,Excellent,,2024-12-23
+236,643,370,1306,3,Not worth it,Value for money,2025-01-05
+237,644,135,284,2,Loved it,Product matched the description,2025-11-22
+238,646,111,649,4,Would buy again,,2024-10-20
+239,647,34,1199,3,Fast delivery,Product matched the description,2025-11-25
+240,658,408,906,5,Disappointed,,2024-08-12
+241,659,97,1744,5,Average experience,,2025-11-23
+242,662,185,1406,4,Average experience,Value for money,2024-06-23
+243,669,312,1636,2,Average experience,,2025-02-04
+244,671,131,1763,4,Loved it,Product matched the description,2025-07-17
+245,673,80,1066,5,Great value,,2025-08-02
+246,675,394,169,5,Average experience,Delivery was slower than expected,2025-08-20
+247,677,102,701,3,Not worth it,,2024-01-30
+248,680,8,215,4,Fast delivery,Delivery was slower than expected,2024-02-21
+249,687,62,1405,5,Fast delivery,,2024-12-30
+250,693,1,98,4,Average experience,,2026-02-07
+251,695,412,163,4,Excellent,Value for money,2025-07-19
+252,698,408,268,4,Would buy again,Product matched the description,2026-01-08
+253,699,149,1473,4,Not worth it,,2025-11-23
+254,705,28,1301,4,Great value,,2025-11-03
+255,707,397,1110,4,Excellent,,2025-01-03
+256,709,93,984,5,Fast delivery,,2025-10-26
+257,713,57,26,5,Excellent,Delivery was slower than expected,2024-05-28
+258,714,167,258,4,Great value,,2024-07-11
+259,716,334,47,3,Not worth it,,2024-11-19
+260,720,120,711,5,Average experience,,2025-11-19
+261,721,179,1789,4,Average experience,,2026-01-05
+262,725,351,225,3,Average experience,,2025-12-06
+263,729,275,475,5,Fast delivery,,2024-02-01
+264,730,13,1175,4,Poor quality,,2024-03-24
+265,732,144,1008,4,Not worth it,Product matched the description,2025-12-01
+266,736,108,1160,4,Average experience,,2025-06-30
+267,741,145,737,4,Loved it,Packaging could improve,2025-03-11
+268,744,208,822,4,Fast delivery,,2024-05-11
+269,747,366,219,4,Excellent,Product matched the description,2025-05-25
+270,751,240,375,4,Disappointed,,2024-10-14
+271,755,28,522,3,Loved it,Product matched the description,2024-09-18
+272,757,315,1200,4,Disappointed,Product matched the description,2025-07-04
+273,759,318,5,5,Would buy again,Product matched the description,2024-04-08
+274,765,215,578,3,Not worth it,,2025-05-26
+275,768,411,190,4,Not worth it,,2026-01-05
+276,769,127,592,5,As expected,Delivery was slower than expected,2024-10-02
+277,776,101,542,5,Disappointed,,2024-09-09
+278,781,125,981,5,Great value,,2025-06-23
+279,782,330,511,4,Would buy again,,2025-12-23
+280,788,273,1265,4,Not worth it,,2025-04-28
+281,789,141,355,5,Fast delivery,Product matched the description,2024-10-18
+282,790,20,1543,3,Loved it,Product matched the description,2025-05-06
+283,796,247,309,4,Average experience,Packaging could improve,2025-06-25
+284,797,190,394,4,Poor quality,,2024-03-23
+285,798,123,997,5,Poor quality,Packaging could improve,2024-08-28
+286,799,49,1144,5,Excellent,,2026-01-10
+287,800,378,328,5,Great value,,2025-08-08
+288,801,181,1361,3,Average experience,Product matched the description,2025-07-06
+289,803,279,1326,3,Loved it,Packaging could improve,2024-10-30
+290,811,102,356,4,Great value,,2025-06-25
+291,816,99,667,3,Would buy again,,2024-11-29
+292,818,51,89,4,Not worth it,Product matched the description,2024-12-28
+293,820,68,1419,5,Great value,Value for money,2024-12-11
+294,821,420,1633,3,Not worth it,Delivery was slower than expected,2024-12-12
+295,822,135,254,3,Fast delivery,,2024-09-11
+296,826,133,1622,4,Average experience,,2024-12-07
+297,827,200,830,5,Poor quality,,2025-12-08
+298,829,272,184,5,Poor quality,,2025-03-06
+299,830,355,1000,4,Great value,Value for money,2024-12-08
+300,831,156,1548,4,Would buy again,Packaging could improve,2025-07-03
+301,832,151,1092,3,Great value,Delivery was slower than expected,2025-10-13
+302,833,84,910,5,Loved it,,2024-07-08
+303,835,144,1196,4,Poor quality,Delivery was slower than expected,2025-10-15
+304,836,93,861,4,Fast delivery,,2024-01-20
+305,837,322,1497,5,Loved it,Delivery was slower than expected,2024-10-08
+306,840,192,1161,4,Great value,Product matched the description,2024-07-07
+307,845,30,464,5,Disappointed,,2025-02-13
+308,847,220,394,4,Disappointed,Delivery was slower than expected,2025-07-01
+309,852,311,662,4,Fast delivery,,2024-08-17
+310,853,202,628,5,Loved it,Packaging could improve,2025-08-29
+311,860,404,1220,2,Average experience,,2024-04-18
+312,863,251,1758,4,Loved it,,2025-07-10
+313,865,234,1270,3,Poor quality,,2025-06-24
+314,867,89,339,4,Great value,,2025-01-06
+315,870,240,61,4,Excellent,,2025-01-16
+316,872,391,483,2,Not worth it,Delivery was slower than expected,2025-01-18
+317,874,55,1422,5,Not worth it,,2025-02-11
+318,876,61,722,5,Poor quality,,2025-01-08
+319,879,208,988,4,Loved it,Product matched the description,2025-02-17
+320,881,204,339,3,Loved it,,2025-09-17
+321,882,318,1119,2,Fast delivery,,2026-01-06
+322,884,384,290,5,Excellent,,2025-05-18
+323,890,91,1123,4,Excellent,,2024-08-06
+324,897,377,1159,3,Excellent,,2025-09-04
+325,898,332,1087,5,Not worth it,Value for money,2026-01-08
+326,901,84,174,5,Loved it,,2025-11-13
+327,902,79,840,2,Fast delivery,Packaging could improve,2024-05-12
+328,903,331,2,3,Loved it,,2025-04-10
+329,905,71,1478,5,Loved it,,2026-01-07
+330,907,390,542,4,Loved it,Packaging could improve,2026-02-07
+331,908,53,1172,4,Average experience,Packaging could improve,2024-11-20
+332,909,332,851,4,As expected,,2025-08-31
+333,910,223,1336,5,Average experience,,2025-08-10
+334,911,402,1845,2,As expected,Delivery was slower than expected,2025-01-23
+335,912,267,1122,4,Not worth it,,2024-12-29
+336,914,337,1056,5,Poor quality,,2025-02-26
+337,915,20,1521,4,Excellent,Product matched the description,2026-01-05
+338,918,223,1187,3,Loved it,Packaging could improve,2025-07-26
+339,923,167,944,5,Great value,,2024-02-14
+340,924,177,1534,4,Not worth it,Value for money,2025-01-30
+341,925,356,1771,5,As expected,,2025-10-08
+342,926,286,1028,3,Average experience,Product matched the description,2025-12-27
+343,927,315,271,5,As expected,Packaging could improve,2024-12-27
+344,934,415,1627,5,Would buy again,,2024-05-14
+345,940,396,741,4,Excellent,Packaging could improve,2024-12-19
+346,950,169,1618,3,Great value,,2024-04-20
+347,953,398,365,4,Great value,Delivery was slower than expected,2025-01-21
+348,954,127,536,3,Fast delivery,,2024-12-20
+349,955,76,1202,5,Excellent,,2024-12-31
+350,958,278,145,1,Not worth it,Delivery was slower than expected,2024-07-09
+351,959,158,1781,5,Would buy again,Value for money,2024-05-28
+352,960,284,421,5,Excellent,,2025-08-27
+353,966,19,404,2,As expected,Value for money,2025-03-05
+354,967,397,45,4,Excellent,Packaging could improve,2024-02-27
+355,968,77,1599,4,As expected,Product matched the description,2025-04-06
+356,969,189,647,3,Not worth it,Product matched the description,2024-11-02
+357,971,210,1622,4,Fast delivery,,2024-02-09
+358,977,230,1531,5,Disappointed,Value for money,2024-12-02
+359,978,379,249,5,Poor quality,,2024-10-18
+360,981,370,1752,4,Disappointed,Delivery was slower than expected,2024-06-05
+361,983,409,1375,5,Fast delivery,,2025-09-10
+362,984,51,1380,5,Fast delivery,Product matched the description,2025-04-23
+363,986,182,1007,3,Disappointed,Product matched the description,2024-02-08
+364,987,51,63,5,Fast delivery,Value for money,2025-06-09
+365,991,100,1145,5,Average experience,,2024-07-18
+366,995,50,1280,5,Average experience,Product matched the description,2025-03-06
+367,996,387,184,5,Disappointed,Packaging could improve,2025-01-18
+368,998,173,1619,5,Loved it,Delivery was slower than expected,2025-04-26
+369,1000,369,1330,4,As expected,,2025-01-30
+370,1001,264,303,4,As expected,,2026-01-26
+371,1002,128,1057,5,Not worth it,,2025-05-09
+372,1011,255,1487,4,Average experience,Packaging could improve,2024-09-06
+373,1012,112,483,5,Average experience,,2025-12-04
+374,1017,330,1045,4,Poor quality,,2024-10-05
+375,1019,64,824,4,Not worth it,,2025-05-13
+376,1023,63,1024,3,Fast delivery,,2025-08-19
+377,1024,418,667,5,Fast delivery,Value for money,2024-10-18
+378,1026,297,186,4,Would buy again,Value for money,2024-09-05
+379,1034,109,894,5,Loved it,Delivery was slower than expected,2025-01-05
+380,1035,17,10,4,Excellent,Value for money,2024-01-28
+381,1040,60,730,3,Not worth it,,2025-10-26
+382,1041,113,1245,3,Not worth it,Delivery was slower than expected,2025-12-21
+383,1044,415,969,5,Loved it,,2025-01-13
+384,1045,248,676,4,Excellent,Delivery was slower than expected,2025-05-06
+385,1046,347,846,4,Poor quality,Product matched the description,2024-09-08
+386,1048,294,965,5,Would buy again,,2025-12-29
+387,1052,351,758,4,Great value,,2025-03-01
+388,1055,1,116,4,Not worth it,Packaging could improve,2025-03-24
+389,1056,180,1510,4,As expected,,2024-09-28
+390,1063,300,1117,5,Average experience,Product matched the description,2025-05-31
+391,1064,380,1759,5,Average experience,,2026-02-01
+392,1066,16,612,4,Great value,Product matched the description,2024-07-12
+393,1069,36,1513,3,As expected,,2025-08-22
+394,1070,111,1392,4,Loved it,Packaging could improve,2026-01-07
+395,1072,257,817,4,Fast delivery,,2024-10-20
+396,1076,361,1172,4,Would buy again,,2025-12-12
+397,1077,365,232,4,Not worth it,Delivery was slower than expected,2024-04-20
+398,1082,75,1368,5,Fast delivery,Packaging could improve,2024-02-24
+399,1083,237,80,2,Average experience,Delivery was slower than expected,2024-12-15
+400,1085,311,753,5,Would buy again,,2024-08-25
+401,1086,28,386,5,Fast delivery,,2025-03-01
+402,1088,223,1427,3,Average experience,Packaging could improve,2026-01-01
+403,1093,252,1728,3,Poor quality,Packaging could improve,2024-05-03
+404,1099,133,977,4,Would buy again,Product matched the description,2026-01-23
+405,1102,314,3,3,Excellent,,2025-02-25
+406,1103,212,1263,3,Disappointed,,2025-05-10
+407,1107,82,785,5,Not worth it,,2025-12-14
+408,1108,7,1658,3,Excellent,Product matched the description,2026-01-11
+409,1109,170,420,3,Great value,,2025-11-02
+410,1110,310,271,3,Fast delivery,,2025-01-09
+411,1111,83,688,3,Poor quality,,2025-09-16
+412,1113,218,271,4,Disappointed,,2025-12-11
+413,1114,57,1394,5,Disappointed,Product matched the description,2025-03-21
+414,1117,271,781,4,Excellent,Delivery was slower than expected,2025-06-18
+415,1120,12,1663,3,Average experience,,2024-10-21
+416,1121,101,1564,2,Poor quality,,2024-08-04
+417,1122,280,1497,5,Fast delivery,,2025-01-03
+418,1125,234,313,3,As expected,Value for money,2026-01-08
+419,1126,305,1827,5,Great value,,2024-07-12
+420,1127,224,949,4,Loved it,Product matched the description,2025-02-08
+421,1128,391,588,4,Disappointed,,2025-06-23
+422,1130,229,695,5,Loved it,,2025-10-02
+423,1131,191,1195,4,Poor quality,Delivery was slower than expected,2024-12-27
+424,1134,226,1093,4,Would buy again,,2025-06-01
+425,1135,265,749,4,Not worth it,,2024-08-05
+426,1137,127,1417,3,Not worth it,Packaging could improve,2025-05-20
+427,1139,149,1708,3,Not worth it,Packaging could improve,2025-01-08
+428,1141,214,1603,3,Fast delivery,,2025-09-24
+429,1142,149,76,3,Great value,Delivery was slower than expected,2024-05-07
+430,1144,98,1482,3,Not worth it,,2024-10-02
+431,1147,287,917,5,Loved it,Product matched the description,2024-11-27
+432,1150,133,426,3,Disappointed,Delivery was slower than expected,2025-01-04
+433,1151,299,625,2,Fast delivery,,2024-10-04
+434,1153,316,1589,5,Poor quality,,2024-02-24
+435,1155,128,127,4,Would buy again,,2025-05-11
+436,1156,102,3,5,Average experience,,2025-03-28
+437,1163,187,1282,2,Disappointed,,2024-05-01
+438,1164,187,1688,5,Not worth it,,2025-05-25
+439,1166,111,10,4,Average experience,,2025-07-11
+440,1167,89,331,4,Fast delivery,,2025-11-09
+441,1168,406,1335,4,Would buy again,Value for money,2024-02-10
+442,1169,211,899,4,Would buy again,Packaging could improve,2025-07-21
+443,1176,162,879,4,Fast delivery,Value for money,2025-06-01
+444,1178,415,1688,4,Poor quality,,2025-04-23
+445,1181,401,29,5,Great value,,2025-02-16
+446,1186,297,1374,5,Not worth it,,2024-09-13
+447,1187,37,408,5,As expected,Product matched the description,2024-11-17
+448,1190,345,1144,3,As expected,,2024-06-02
+449,1196,196,371,4,Would buy again,Delivery was slower than expected,2024-08-09
+450,1200,108,486,5,Average experience,Delivery was slower than expected,2025-08-26
+451,1202,89,1502,5,Average experience,Product matched the description,2024-05-25
+452,1203,27,913,3,Disappointed,,2024-11-27
+453,1214,298,336,5,Not worth it,Value for money,2024-05-21
+454,1215,418,531,4,Excellent,,2025-07-13
+455,1228,388,1277,5,Poor quality,,2026-01-11
+456,1234,115,1055,4,Great value,,2024-03-26
+457,1237,19,480,4,Not worth it,Packaging could improve,2025-03-30
+458,1239,400,721,3,Excellent,,2024-04-13
+459,1240,115,174,5,Poor quality,Packaging could improve,2025-03-11
+460,1241,367,1799,3,Not worth it,Value for money,2025-12-19
+461,1242,70,1616,4,Fast delivery,,2024-01-30
+462,1243,39,867,3,Excellent,Packaging could improve,2025-11-07
+463,1244,150,15,5,Would buy again,,2025-10-20
+464,1246,38,598,4,As expected,,2024-06-29
+465,1247,140,952,4,Disappointed,,2024-11-29
+466,1248,289,323,4,Average experience,,2024-06-29
+467,1250,362,1071,5,Poor quality,,2025-10-29
+468,1252,6,358,3,Loved it,Packaging could improve,2024-12-25
+469,1254,249,1021,4,Excellent,,2025-06-27
+470,1255,187,355,3,Average experience,Delivery was slower than expected,2025-01-11
+471,1256,240,1753,1,Not worth it,Delivery was slower than expected,2025-07-16
+472,1257,165,1749,5,Average experience,,2025-11-09
+473,1260,127,956,5,Fast delivery,,2024-10-24
+474,1261,199,1433,4,Great value,,2024-12-25
+475,1267,22,445,5,Average experience,Value for money,2024-03-11
+476,1268,126,581,4,Loved it,Product matched the description,2025-05-09
+477,1269,194,1246,5,Disappointed,,2024-04-17
+478,1271,318,1740,5,Disappointed,,2024-04-10
+479,1272,415,1724,5,Excellent,Delivery was slower than expected,2024-07-20
+480,1273,90,673,3,Great value,Packaging could improve,2025-03-10
+481,1277,122,1499,3,Fast delivery,,2025-01-10
+482,1278,322,761,5,Average experience,,2024-12-13
+483,1279,92,1025,3,Fast delivery,Delivery was slower than expected,2024-06-15
+484,1284,208,1338,5,Would buy again,,2025-08-15
+485,1285,137,419,4,Poor quality,,2025-05-06
+486,1287,116,164,2,Not worth it,,2025-03-16
+487,1293,18,1267,3,Excellent,Delivery was slower than expected,2024-03-14
+488,1294,160,167,5,Would buy again,Value for money,2024-10-05
+489,1295,201,1497,2,Great value,Product matched the description,2026-01-08
+490,1296,242,270,3,Poor quality,,2025-01-31
+491,1303,151,1639,4,Fast delivery,,2024-05-21
+492,1304,112,1601,4,Would buy again,,2024-09-20
+493,1305,293,1315,5,Loved it,,2024-12-26
+494,1306,410,1135,5,Would buy again,Value for money,2025-09-29
+495,1308,274,1167,4,Poor quality,,2024-06-09
+496,1309,322,1291,5,Would buy again,Product matched the description,2025-05-08
+497,1311,104,1763,4,Not worth it,Product matched the description,2025-07-08
+498,1312,353,1723,5,Average experience,Product matched the description,2024-05-03
+499,1316,91,384,5,As expected,Delivery was slower than expected,2025-05-04
+500,1317,50,868,5,Would buy again,Value for money,2025-12-11
+501,1320,63,176,4,Average experience,,2024-07-11
+502,1322,282,257,4,Loved it,,2026-01-03
+503,1324,284,1230,4,Loved it,,2024-10-23
+504,1325,342,1123,4,As expected,Delivery was slower than expected,2025-02-04
+505,1327,280,944,5,Poor quality,Value for money,2025-02-18
+506,1330,216,1203,5,Average experience,,2024-02-24
+507,1331,53,32,4,Would buy again,,2024-08-23
+508,1335,77,65,3,Great value,,2025-08-26
+509,1338,55,1625,5,Disappointed,Delivery was slower than expected,2025-10-07
+510,1341,123,348,4,As expected,,2025-03-05
+511,1342,248,1016,5,Average experience,,2025-08-27
+512,1344,149,1543,3,Fast delivery,Packaging could improve,2024-05-21
+513,1345,130,1329,3,Great value,Value for money,2025-05-13
+514,1347,274,1779,3,Excellent,,2024-08-05
+515,1348,226,357,4,Loved it,,2025-01-20
+516,1349,114,1052,4,Not worth it,,2025-02-18
+517,1351,372,1010,3,Would buy again,,2025-09-13
+518,1358,79,1093,3,Would buy again,Value for money,2024-08-27
+519,1359,244,1108,4,Great value,Value for money,2025-11-05
+520,1362,379,1236,3,Great value,,2025-05-07
+521,1364,94,1123,4,Fast delivery,,2025-05-19
+522,1366,154,1,4,Disappointed,Packaging could improve,2024-02-28
+523,1371,108,1195,5,Would buy again,,2025-06-20
+524,1372,395,625,5,Great value,Product matched the description,2024-04-13
+525,1378,80,144,3,Great value,Value for money,2024-03-01
+526,1379,105,601,5,As expected,,2025-07-06
+527,1382,263,1532,5,Loved it,Value for money,2025-12-21
+528,1383,184,1644,3,Great value,,2025-08-29
+529,1385,210,457,4,Average experience,,2024-07-03
+530,1387,186,476,5,Would buy again,,2025-08-12
+531,1389,325,859,5,Would buy again,,2025-03-19
+532,1398,96,1043,5,Fast delivery,Value for money,2024-06-23
+533,1399,68,534,2,Average experience,,2025-04-14
+534,1400,348,1650,4,Loved it,Delivery was slower than expected,2024-12-10
+535,1402,87,530,5,As expected,Delivery was slower than expected,2024-11-13
+536,1405,375,979,3,As expected,,2026-01-17
+537,1406,129,390,3,Would buy again,,2024-02-17
+538,1411,276,431,1,Excellent,,2024-03-22
+539,1419,75,438,4,Loved it,,2024-12-15
+540,1421,387,961,4,As expected,Delivery was slower than expected,2025-04-07
+541,1424,223,1132,1,Disappointed,,2024-04-07
+542,1426,296,642,3,Average experience,Packaging could improve,2025-05-29
+543,1427,271,32,4,Not worth it,Value for money,2024-08-27
+544,1433,99,1122,4,Fast delivery,,2024-06-17
+545,1434,59,418,4,Not worth it,,2024-11-19
+546,1442,121,1436,4,Not worth it,Product matched the description,2026-01-23
+547,1443,132,261,5,Poor quality,Value for money,2024-09-12
+548,1444,334,1492,4,Poor quality,,2025-06-25
+549,1449,179,1078,5,Loved it,,2024-06-05
+550,1450,220,893,3,Not worth it,Value for money,2024-10-15
+551,1452,175,1539,5,Excellent,,2024-09-22
+552,1456,73,1535,5,Would buy again,Packaging could improve,2025-08-03
+553,1460,14,543,3,Would buy again,Product matched the description,2025-12-12
+554,1462,25,1828,5,Not worth it,,2024-03-24
+555,1463,353,1698,4,Would buy again,,2025-10-27
+556,1467,369,985,5,Would buy again,,2024-12-06
+557,1468,374,879,3,Would buy again,,2025-05-29
+558,1469,203,750,3,Not worth it,,2024-04-30
+559,1472,120,691,4,Fast delivery,Value for money,2024-06-10
+560,1475,364,2,5,Fast delivery,,2025-09-02
+561,1476,35,374,4,Excellent,Delivery was slower than expected,2024-12-09
+562,1479,326,781,5,Great value,Product matched the description,2024-07-27
+563,1480,320,502,2,Loved it,,2026-01-12
+564,1483,183,1585,4,Would buy again,,2025-04-21
+565,1485,117,169,4,Poor quality,,2025-02-20
+566,1492,229,653,5,Fast delivery,Delivery was slower than expected,2025-12-18
+567,1493,143,1600,5,Loved it,,2024-05-19
+568,1500,21,86,5,Loved it,Packaging could improve,2025-08-13
+569,1501,140,484,4,Poor quality,Delivery was slower than expected,2024-09-21
+570,1504,213,86,4,Great value,,2024-10-27
+571,1507,271,837,4,Not worth it,Packaging could improve,2024-09-30
+572,1509,88,66,3,Average experience,Product matched the description,2024-05-15
+573,1510,102,1746,4,Loved it,,2025-12-01
+574,1511,404,1118,5,Would buy again,Value for money,2024-04-26
+575,1512,151,1715,4,Excellent,,2024-05-22
+576,1513,93,1325,5,Average experience,,2024-05-02
+577,1515,337,1060,3,Not worth it,,2025-09-03
+578,1518,46,1378,3,Average experience,Delivery was slower than expected,2024-12-27
+579,1519,356,1180,5,Not worth it,,2025-01-31
+580,1520,109,1527,5,Fast delivery,Product matched the description,2024-08-29
+581,1521,303,117,5,Not worth it,Product matched the description,2024-10-30
+582,1522,6,1462,4,Average experience,,2024-12-21
+583,1523,329,1189,4,Great value,,2025-07-31
+584,1524,73,483,5,Excellent,,2025-11-18
+585,1530,166,1424,5,Great value,,2024-09-21
+586,1531,375,308,3,Great value,,2025-05-08
+587,1534,309,533,5,Would buy again,Value for money,2025-01-15
+588,1540,173,952,4,Loved it,Delivery was slower than expected,2025-12-31
+589,1541,241,1438,4,As expected,Delivery was slower than expected,2025-02-03
+590,1547,87,1206,5,Great value,Value for money,2024-02-16
+591,1550,112,1115,5,Not worth it,,2025-01-13
+592,1551,15,1750,4,Excellent,Packaging could improve,2024-10-09
+593,1556,6,147,3,Disappointed,Packaging could improve,2024-02-14
+594,1557,294,1380,2,Would buy again,,2024-12-12
+595,1559,271,1299,4,Excellent,,2025-12-31
+596,1560,355,653,1,Average experience,,2025-10-16
+597,1562,70,640,4,As expected,,2025-11-24
+598,1563,304,939,3,Average experience,,2024-09-04
+599,1570,260,1142,4,As expected,Product matched the description,2025-12-21
+600,1572,283,186,3,As expected,Delivery was slower than expected,2025-02-04
+601,1579,123,1790,5,Poor quality,Value for money,2025-12-26
+602,1583,360,1596,3,Not worth it,Packaging could improve,2025-01-14
+603,1586,54,1538,4,Great value,,2025-01-02
+604,1590,84,171,4,Not worth it,,2024-02-26
+605,1596,57,834,4,Great value,Product matched the description,2025-05-23
+606,1604,117,384,5,Great value,Packaging could improve,2025-07-11
+607,1605,134,8,4,Disappointed,Delivery was slower than expected,2024-07-23
+608,1608,62,1589,4,Would buy again,,2025-06-06
+609,1623,90,888,4,Loved it,,2024-06-08
+610,1624,336,167,4,Fast delivery,,2024-09-20
+611,1626,110,343,5,Great value,Product matched the description,2024-04-23
+612,1627,239,1127,5,Poor quality,Product matched the description,2025-11-29
+613,1628,184,1730,4,Average experience,Packaging could improve,2026-01-26
+614,1632,362,1136,4,Poor quality,,2024-02-13
+615,1634,394,137,5,Excellent,Value for money,2024-04-01
+616,1636,405,691,5,As expected,Packaging could improve,2025-01-31
+617,1639,64,712,3,Excellent,,2024-08-25
+618,1640,381,1125,2,As expected,,2025-05-17
+619,1646,125,811,3,As expected,,2025-11-06
+620,1647,347,399,5,Excellent,,2025-02-13
+621,1648,6,1326,5,Would buy again,Product matched the description,2025-11-10
+622,1653,109,733,4,Excellent,Delivery was slower than expected,2024-12-05
+623,1661,123,1739,3,Disappointed,Delivery was slower than expected,2024-01-30
+624,1667,286,1772,5,Excellent,,2026-01-09
+625,1674,215,1107,4,Average experience,Packaging could improve,2024-03-11
+626,1675,226,471,3,Poor quality,Value for money,2024-04-02
+627,1678,396,915,5,Disappointed,Delivery was slower than expected,2025-01-03
+628,1683,45,916,4,Disappointed,Delivery was slower than expected,2025-12-14
+629,1684,236,949,5,Would buy again,Value for money,2024-06-02
+630,1686,173,1287,5,Loved it,,2025-07-08
+631,1691,146,1784,4,Disappointed,Product matched the description,2024-11-28
+632,1695,329,1713,4,Average experience,Value for money,2024-05-11
+633,1697,125,1035,5,As expected,,2024-09-08
+634,1704,328,1468,3,Not worth it,,2025-08-29
+635,1706,98,1194,4,As expected,Delivery was slower than expected,2024-04-08
+636,1707,388,1334,5,Would buy again,Packaging could improve,2025-12-29
+637,1708,18,17,5,Poor quality,,2025-09-14
+638,1710,269,1010,4,Would buy again,Value for money,2024-05-26
+639,1715,43,1000,3,Fast delivery,,2025-11-10
+640,1716,247,113,4,Poor quality,Delivery was slower than expected,2024-11-03
+641,1717,77,425,4,Poor quality,,2025-06-21
+642,1720,47,1500,4,Great value,Delivery was slower than expected,2024-06-29
+643,1724,282,671,4,As expected,Value for money,2024-08-12
+644,1725,203,1213,3,Fast delivery,,2025-10-03
+645,1726,121,168,4,Fast delivery,Packaging could improve,2024-06-07
+646,1731,131,556,3,Great value,Value for money,2024-05-31
+647,1741,117,1022,3,Great value,Delivery was slower than expected,2025-11-04
+648,1744,152,352,5,Disappointed,Product matched the description,2024-12-07
+649,1746,170,1842,4,Not worth it,Packaging could improve,2026-01-31
+650,1751,237,29,4,Would buy again,,2024-07-11
+651,1752,40,1038,4,Would buy again,,2025-04-05
+652,1755,198,1193,3,Excellent,Delivery was slower than expected,2024-12-25
+653,1757,204,158,4,Poor quality,Packaging could improve,2024-06-04
+654,1758,105,1198,4,Fast delivery,Delivery was slower than expected,2025-12-12
+655,1764,237,1124,4,Loved it,,2024-11-29
+656,1765,409,774,5,Excellent,,2025-03-08
+657,1773,350,516,4,Fast delivery,Product matched the description,2024-02-14
+658,1776,148,369,3,Would buy again,Delivery was slower than expected,2024-11-06
+659,1778,320,1134,3,Loved it,,2026-01-18
+660,1783,188,718,4,Poor quality,,2024-02-28
+661,1787,388,1604,4,Fast delivery,Value for money,2024-10-06
+662,1791,371,536,4,Fast delivery,,2024-09-02
+663,1793,228,281,4,As expected,,2024-05-08
+664,1797,123,1568,5,Poor quality,Product matched the description,2025-08-14
+665,1803,202,196,4,Great value,,2024-02-13
+666,1804,20,674,4,Disappointed,,2025-10-23
+667,1805,329,307,3,Great value,,2025-10-24
+668,1810,343,1781,3,Not worth it,,2025-12-20
+669,1811,340,396,4,Disappointed,,2025-04-10
+670,1813,37,1373,3,Would buy again,Product matched the description,2024-03-27
+671,1816,256,1797,5,Average experience,,2025-08-15
+672,1821,206,86,5,Loved it,,2024-03-07
+673,1822,101,1015,4,Great value,Product matched the description,2024-08-06
+674,1827,190,745,4,Would buy again,,2025-07-24
+675,1829,20,519,3,Excellent,Packaging could improve,2024-10-24
+676,1831,80,241,1,Average experience,,2025-05-09
+677,1836,348,342,3,Average experience,,2024-07-04
+678,1840,197,1395,3,Would buy again,,2024-12-02
+679,1845,27,652,3,Fast delivery,Packaging could improve,2025-03-07
+680,1846,340,1620,2,Disappointed,,2025-01-13
+681,1854,3,31,2,Disappointed,,2025-01-22
+682,1858,409,917,5,Poor quality,,2024-03-13
+683,1859,419,1504,4,Not worth it,Packaging could improve,2024-11-03
+684,1860,5,246,4,As expected,Value for money,2024-09-14
+685,1870,238,1475,3,Poor quality,,2025-09-24
+686,1871,341,138,3,Poor quality,,2024-10-29
+687,1874,158,1150,5,Poor quality,,2025-02-14
+688,1882,369,646,2,Disappointed,,2025-07-22
+689,1885,316,1697,1,Disappointed,Value for money,2024-07-22
+690,1890,215,1139,5,Excellent,Value for money,2025-07-04
+691,1893,204,791,5,Disappointed,,2025-10-01
+692,1897,172,836,3,Poor quality,Delivery was slower than expected,2025-10-27
+693,1898,265,450,4,Average experience,,2025-01-16
+694,1899,81,416,3,Average experience,,2025-05-31
+695,1901,199,1779,5,Excellent,Packaging could improve,2024-09-19
+696,1905,9,173,5,Average experience,,2024-09-05
+697,1907,355,1694,2,Loved it,Packaging could improve,2025-08-18
+698,1909,213,82,3,Disappointed,,2025-12-11
+699,1911,394,849,3,As expected,Packaging could improve,2026-01-21
+700,1918,105,1566,4,Excellent,Delivery was slower than expected,2025-11-05
+701,1919,383,1548,4,As expected,,2024-09-08
+702,1928,260,1780,4,Excellent,Packaging could improve,2024-10-20
+703,1929,58,1538,4,Disappointed,Packaging could improve,2024-01-25
+704,1932,87,1628,5,Great value,Value for money,2024-07-29
+705,1933,388,897,4,Poor quality,Packaging could improve,2024-05-30
+706,1940,111,291,5,Great value,Packaging could improve,2025-12-17
+707,1943,331,224,3,As expected,Value for money,2025-04-26
+708,1944,312,567,3,Excellent,Value for money,2025-07-12
+709,1947,243,210,3,Average experience,,2024-09-02
+710,1951,329,328,5,Excellent,,2024-09-19
+711,1953,240,168,3,As expected,Delivery was slower than expected,2024-11-18
+712,1954,131,323,3,Fast delivery,,2025-12-29
+713,1957,162,1712,3,Average experience,Product matched the description,2025-11-06
+714,1960,148,1267,5,Would buy again,Packaging could improve,2025-02-03
+715,1963,259,370,5,Poor quality,,2025-02-25
+716,1964,306,341,5,Would buy again,Delivery was slower than expected,2024-07-23
+717,1967,333,1573,3,As expected,,2025-01-22
+718,1968,278,1135,5,Disappointed,Product matched the description,2024-11-28
+719,1969,394,679,4,As expected,Packaging could improve,2025-06-30
+720,1972,188,1055,4,Excellent,,2024-05-17
+721,1974,398,1227,4,As expected,,2024-09-07
+722,1975,167,412,4,Would buy again,,2025-07-23
+723,1976,91,1446,3,Would buy again,,2025-08-27
+724,1978,281,75,4,Poor quality,Packaging could improve,2025-02-12
+725,1980,240,636,2,Great value,Value for money,2025-12-31
+726,1981,218,725,5,Average experience,,2025-11-25
+727,1982,138,228,4,Disappointed,Value for money,2025-05-01
+728,1986,387,1344,4,Loved it,Packaging could improve,2024-09-05
+729,1987,212,1375,3,Poor quality,Packaging could improve,2024-05-01
+730,1988,311,850,4,As expected,,2025-09-15
+731,1989,274,221,3,Not worth it,Value for money,2024-02-12
+732,1992,36,1142,3,Loved it,Packaging could improve,2025-05-24
+733,1999,356,44,5,Excellent,,2024-09-28
+734,2001,138,149,3,Not worth it,Delivery was slower than expected,2024-12-24
+735,2002,168,1649,5,Would buy again,Value for money,2024-05-29
+736,2006,111,966,5,Not worth it,,2024-09-09
+737,2007,138,883,3,Average experience,,2024-04-07
+738,2012,397,213,3,Disappointed,,2024-03-19
+739,2014,78,1089,3,Would buy again,,2024-08-25
+740,2015,386,265,3,As expected,,2025-11-24
+741,2018,252,844,4,Loved it,,2024-02-19
+742,2019,364,69,4,Poor quality,Product matched the description,2025-09-17
+743,2020,64,439,4,Fast delivery,Product matched the description,2024-01-31
+744,2021,384,291,4,Average experience,Product matched the description,2025-01-13
+745,2022,146,278,5,Excellent,,2026-01-20
+746,2023,142,977,2,Poor quality,Product matched the description,2024-04-19
+747,2025,62,6,5,Would buy again,,2024-08-18
+748,2040,286,765,4,Poor quality,Value for money,2025-11-18
+749,2041,210,1709,5,Excellent,Delivery was slower than expected,2024-05-24
+750,2042,314,1071,4,Average experience,,2024-08-06
+751,2045,369,1607,4,Fast delivery,Packaging could improve,2025-02-24
+752,2051,165,225,4,Excellent,Packaging could improve,2025-10-06
+753,2052,63,349,5,Average experience,,2025-04-14
+754,2054,368,1768,5,Great value,Packaging could improve,2025-02-12
+755,2062,14,73,5,Disappointed,,2024-08-09
+756,2064,153,570,5,Fast delivery,,2024-03-10
+757,2071,394,1158,4,Poor quality,Product matched the description,2024-06-16
+758,2073,194,1442,3,Not worth it,,2025-01-01
+759,2076,65,414,5,Disappointed,,2024-06-04
+760,2078,78,492,3,As expected,Value for money,2026-01-18
+761,2080,329,545,5,Disappointed,Value for money,2025-08-02
+762,2081,395,188,5,Fast delivery,Product matched the description,2024-11-23
+763,2083,178,435,5,Would buy again,,2025-09-24
+764,2086,238,175,4,Fast delivery,Value for money,2025-04-12
+765,2087,364,1538,5,Fast delivery,Value for money,2025-12-04
+766,2089,330,369,3,Fast delivery,Delivery was slower than expected,2025-12-29
+767,2090,370,1247,3,Average experience,Product matched the description,2024-12-26
+768,2093,101,1615,5,Excellent,Delivery was slower than expected,2025-01-13
+769,2096,175,250,4,Average experience,Delivery was slower than expected,2024-04-22
+770,2100,254,596,4,Average experience,Delivery was slower than expected,2025-10-21
+771,2106,54,436,4,Poor quality,Value for money,2025-11-26
+772,2107,46,1377,5,Disappointed,,2025-12-15
+773,2109,70,359,4,Great value,Delivery was slower than expected,2025-06-26
+774,2112,401,727,3,Excellent,,2024-03-01
+775,2113,63,1287,4,Not worth it,Delivery was slower than expected,2025-05-31
+776,2115,391,848,4,Loved it,Delivery was slower than expected,2024-10-12
+777,2117,107,1144,4,Great value,,2025-11-04
+778,2119,403,514,3,Excellent,Product matched the description,2025-05-20
+779,2124,292,1553,3,Fast delivery,,2024-08-24
+780,2126,269,1207,5,Loved it,,2025-04-08
+781,2128,327,628,5,Disappointed,Product matched the description,2024-06-09
+782,2131,183,768,5,Fast delivery,,2025-03-11
+783,2133,218,304,5,Fast delivery,Packaging could improve,2024-02-27
+784,2134,174,682,3,Loved it,,2025-12-25
+785,2135,296,801,2,Not worth it,,2024-02-27
+786,2137,79,1716,4,Would buy again,Packaging could improve,2025-04-23
+787,2140,222,106,4,Loved it,,2024-03-10
+788,2142,372,798,5,Not worth it,,2025-01-29
+789,2144,326,162,4,Great value,,2024-09-24
+790,2148,276,1643,4,Would buy again,Packaging could improve,2025-09-02
+791,2150,116,1253,3,Poor quality,Delivery was slower than expected,2025-12-19
+792,2151,315,948,3,Disappointed,Packaging could improve,2024-11-01
+793,2153,219,386,5,Great value,,2024-01-19
+794,2156,218,74,4,Fast delivery,Value for money,2025-09-03
+795,2160,317,1109,4,Excellent,,2025-04-07
+796,2161,98,752,5,As expected,Delivery was slower than expected,2025-10-29
+797,2163,354,1735,3,Excellent,Value for money,2025-11-30
+798,2167,160,724,5,Fast delivery,,2025-07-12
+799,2169,256,1546,5,Poor quality,Packaging could improve,2025-12-07
+800,2172,54,455,4,Fast delivery,,2024-11-01
+801,2173,227,991,4,Poor quality,,2025-11-14
+802,2174,371,1661,5,As expected,,2025-11-03
+803,2179,370,1267,4,Great value,,2024-07-22
+804,2185,31,1202,5,Excellent,,2024-09-03
+805,2188,296,474,5,Would buy again,Value for money,2025-09-22
+806,2189,296,996,5,Would buy again,Packaging could improve,2025-10-18
+807,2191,129,246,5,Average experience,,2024-02-22
+808,2194,215,1542,4,Fast delivery,,2024-06-23
+809,2195,95,1385,2,Average experience,Product matched the description,2024-09-11
+810,2196,148,588,3,As expected,,2025-10-09
+811,2198,99,1002,4,Average experience,,2025-07-26
+812,2201,262,808,3,Great value,,2024-03-22
+813,2207,114,1411,1,As expected,Delivery was slower than expected,2025-07-26
+814,2208,418,486,3,Excellent,,2025-08-11
+815,2209,123,492,3,Would buy again,,2024-03-22
+816,2213,366,687,5,Excellent,Packaging could improve,2025-01-20
+817,2216,156,1009,5,Would buy again,,2024-06-27
+818,2218,329,637,4,Would buy again,Packaging could improve,2025-08-13
+819,2222,130,296,4,Loved it,,2024-08-31
+820,2228,38,876,5,Disappointed,Packaging could improve,2024-10-23
+821,2229,353,1395,5,Disappointed,,2024-05-18
+822,2242,37,1541,3,Not worth it,,2025-07-18
+823,2244,66,722,5,Would buy again,,2024-07-14
+824,2245,278,39,4,Excellent,,2025-10-30
+825,2248,105,1542,3,Poor quality,,2025-07-15
+826,2249,35,1331,5,As expected,,2024-12-13
+827,2254,72,263,4,Not worth it,,2025-02-13
+828,2256,331,692,3,Great value,,2025-07-28
+829,2258,321,269,5,Excellent,Product matched the description,2024-05-03
+830,2263,405,845,3,Excellent,Product matched the description,2025-09-27
+831,2265,139,660,3,Not worth it,,2024-08-31
+832,2282,144,1606,5,Great value,,2025-04-01
+833,2283,309,334,4,Poor quality,Delivery was slower than expected,2025-09-27
+834,2287,262,1182,4,Poor quality,Product matched the description,2025-01-31
+835,2290,203,1777,3,Would buy again,,2025-01-07
+836,2293,270,1021,5,Poor quality,Product matched the description,2025-08-06
+837,2303,394,1185,4,Great value,Product matched the description,2025-01-24
+838,2305,227,514,5,Fast delivery,Packaging could improve,2025-12-04
+839,2307,143,380,4,Fast delivery,,2026-01-15
+840,2312,11,666,3,Great value,,2025-06-07
+841,2313,247,715,4,As expected,Packaging could improve,2025-11-27
+842,2315,112,295,4,Great value,,2024-11-16
+843,2320,407,126,5,Fast delivery,,2024-12-28
+844,2322,125,897,4,Not worth it,Value for money,2024-01-19
+845,2327,35,996,5,Not worth it,,2024-07-22
+846,2331,261,1771,5,Excellent,Value for money,2024-02-02
+847,2333,30,1066,2,Fast delivery,Product matched the description,2025-03-13
+848,2334,406,898,3,Excellent,,2024-07-03
+849,2335,125,632,5,Loved it,,2025-10-14
+850,2341,371,1085,4,Great value,Packaging could improve,2024-05-27
+851,2346,400,1137,4,Loved it,,2026-01-15
+852,2348,14,1602,4,Great value,,2024-11-07
+853,2349,194,481,3,Excellent,,2024-06-12
+854,2351,368,1731,4,As expected,Delivery was slower than expected,2025-02-03
+855,2356,389,567,4,Poor quality,,2025-04-11
+856,2357,50,1378,4,Loved it,,2024-06-02
+857,2365,279,1270,3,Would buy again,,2024-12-14
+858,2366,26,424,5,Disappointed,,2024-08-17
+859,2375,9,129,5,Poor quality,,2025-12-02
+860,2376,260,1010,3,Great value,,2025-07-30
+861,2378,340,118,2,Fast delivery,Delivery was slower than expected,2025-02-04
+862,2380,333,519,2,Average experience,Packaging could improve,2024-08-20
+863,2385,113,938,4,Fast delivery,,2024-10-11
+864,2386,45,1739,4,As expected,,2024-10-17
+865,2390,95,195,3,Excellent,,2026-01-23
+866,2392,61,109,4,Disappointed,,2025-07-23
+867,2397,65,1198,5,Loved it,Value for money,2024-02-08
+868,2401,194,316,3,Would buy again,,2024-03-19
+869,2402,210,547,4,As expected,Value for money,2024-06-30
+870,2403,117,1414,3,Average experience,Value for money,2024-04-30
+871,2406,176,786,4,Excellent,Packaging could improve,2025-09-27
+872,2407,97,626,4,Great value,,2025-01-10
+873,2410,319,107,4,Loved it,,2025-01-27
+874,2411,233,1279,3,Not worth it,Packaging could improve,2024-05-19
+875,2413,34,322,4,Average experience,,2024-09-28
+876,2416,368,504,4,Average experience,,2025-04-04
+877,2419,223,1578,4,Disappointed,Product matched the description,2024-09-17
+878,2420,354,1133,3,Average experience,Delivery was slower than expected,2025-10-05
+879,2422,12,1477,4,Disappointed,,2025-01-10
+880,2423,239,884,5,Average experience,,2025-04-28
+881,2424,402,460,5,Would buy again,Value for money,2025-11-22
+882,2429,59,1375,3,As expected,,2025-11-06
+883,2432,401,197,5,Would buy again,,2024-04-16
+884,2433,51,365,5,Fast delivery,Value for money,2025-12-12
+885,2435,183,158,4,Fast delivery,,2024-02-17
+886,2436,215,221,4,Fast delivery,Delivery was slower than expected,2024-09-02
+887,2437,25,10,3,Not worth it,,2025-02-11
+888,2439,256,1351,1,Loved it,Product matched the description,2024-03-12
+889,2441,360,1508,3,Excellent,,2024-12-08
+890,2442,192,641,4,Excellent,,2024-04-01
+891,2451,263,200,3,Great value,,2024-04-11
+892,2452,172,789,5,Disappointed,,2024-12-04
+893,2454,126,1225,4,Loved it,,2024-10-22
+894,2455,166,1607,2,As expected,,2025-05-30
+895,2462,159,541,4,As expected,,2024-10-02
+896,2464,290,1290,5,Disappointed,,2025-01-10
+897,2469,311,1556,3,Not worth it,Delivery was slower than expected,2025-07-08
+898,2470,367,333,3,Fast delivery,Delivery was slower than expected,2024-04-13
+899,2472,359,956,4,Not worth it,,2025-04-02
+900,2476,115,751,4,Average experience,,2025-10-19
+901,2483,257,1464,4,As expected,Value for money,2025-12-05
+902,2487,218,469,3,Disappointed,,2024-02-22
+903,2488,24,990,4,Excellent,,2025-03-25
+904,2496,346,196,4,Fast delivery,,2024-03-16
+905,2502,57,666,5,Not worth it,Product matched the description,2024-06-28
+906,2506,254,682,3,Average experience,,2026-01-19
+907,2510,327,1054,5,Great value,,2024-05-07
+908,2516,297,115,4,As expected,Delivery was slower than expected,2024-04-29
+909,2519,35,392,4,Average experience,,2024-11-22
+910,2520,202,807,3,Poor quality,Packaging could improve,2026-01-19
+911,2522,227,1525,4,Fast delivery,,2024-06-11
+912,2524,74,1135,5,Fast delivery,Packaging could improve,2024-09-01
+913,2525,69,1348,5,As expected,Value for money,2025-06-02
+914,2534,242,250,5,Would buy again,Product matched the description,2024-05-15
+915,2535,39,804,5,Loved it,,2025-08-07
+916,2537,367,1435,5,Not worth it,Packaging could improve,2024-09-01
+917,2539,345,1437,5,Not worth it,Product matched the description,2024-09-04
+918,2540,25,315,4,Poor quality,Product matched the description,2024-07-23
+919,2542,420,1501,2,Excellent,Product matched the description,2024-03-25
+920,2548,382,529,2,Great value,,2024-07-24
+921,2550,386,1666,2,Fast delivery,Product matched the description,2025-03-21
+922,2551,317,157,3,Great value,Value for money,2025-06-14
+923,2557,175,1768,5,As expected,Product matched the description,2025-12-04
+924,2565,328,1814,5,Would buy again,Delivery was slower than expected,2024-09-11
+925,2566,382,865,5,Great value,,2024-03-01
+926,2569,319,171,3,As expected,,2025-11-28
+927,2575,359,70,3,Poor quality,Product matched the description,2025-09-29
+928,2580,168,1208,5,Disappointed,,2024-02-02
+929,2585,126,1664,5,Great value,Packaging could improve,2025-02-16
+930,2587,90,1753,2,Average experience,Product matched the description,2024-01-21
+931,2588,54,1536,4,Poor quality,Packaging could improve,2024-10-09
+932,2589,216,1381,5,Disappointed,,2025-08-02
+933,2593,399,209,2,Disappointed,,2024-06-19
+934,2596,134,788,5,Average experience,,2024-11-25
+935,2597,335,1114,4,Would buy again,Product matched the description,2024-09-08
+936,2598,250,963,2,Excellent,,2025-12-15
+937,2601,370,1631,5,Disappointed,,2024-03-22
+938,2602,383,1507,5,Not worth it,,2025-05-20
+939,2606,78,1559,4,Great value,,2024-07-22
+940,2617,370,233,4,Poor quality,Product matched the description,2024-08-11
+941,2618,3,171,4,Average experience,Packaging could improve,2024-05-23
+942,2621,165,1359,5,Excellent,,2025-10-03
+943,2626,407,502,4,As expected,,2026-01-02
+944,2628,82,490,3,Excellent,Packaging could improve,2025-08-23
+945,2633,325,1565,4,Loved it,Packaging could improve,2025-07-18
+946,2637,155,692,3,Poor quality,,2024-10-09
+947,2638,151,1050,4,Fast delivery,,2025-11-21
+948,2639,41,1636,2,As expected,,2024-11-27
+949,2641,171,560,4,Would buy again,Value for money,2025-12-04
+950,2644,389,1189,4,Average experience,,2024-09-08
+951,2645,62,575,3,Excellent,,2025-01-17
+952,2649,204,639,5,Fast delivery,,2024-05-11
+953,2650,327,1502,5,Fast delivery,Product matched the description,2024-08-15
+954,2653,285,561,5,Fast delivery,,2025-07-22
+955,2658,105,308,4,Fast delivery,,2025-08-24
+956,2659,41,934,4,Loved it,,2025-04-30
+957,2663,187,184,4,Not worth it,Product matched the description,2024-06-14
+958,2664,155,1730,4,Excellent,,2024-04-29
+959,2665,253,1229,5,Fast delivery,,2026-01-18
+960,2667,50,1227,3,Fast delivery,Delivery was slower than expected,2024-10-04
+961,2676,373,239,3,Poor quality,,2024-07-02
+962,2677,310,1619,3,Fast delivery,,2024-09-09
+963,2682,149,1130,3,Not worth it,Value for money,2024-11-30
+964,2683,122,938,4,Average experience,Value for money,2025-11-13
+965,2688,184,1331,3,As expected,,2025-07-06
+966,2694,14,1045,5,Not worth it,,2025-02-18
+967,2699,259,1046,4,Loved it,,2024-05-28
+968,2700,368,1793,3,Would buy again,,2024-02-14
+969,2702,353,1649,4,Not worth it,,2025-03-29
+970,2703,343,179,2,Poor quality,,2026-01-09
+971,2710,116,722,4,Disappointed,,2024-06-30
+972,2713,252,146,5,Average experience,Delivery was slower than expected,2025-01-15
+973,2714,151,52,4,Disappointed,Delivery was slower than expected,2024-03-24
+974,2718,320,1771,2,Great value,Delivery was slower than expected,2024-03-03
+975,2729,417,1294,5,Not worth it,Packaging could improve,2025-04-20
+976,2732,185,944,4,Fast delivery,,2025-12-24
+977,2733,275,393,5,Great value,,2024-10-14
+978,2736,326,400,3,Fast delivery,,2026-01-12
+979,2738,340,1661,2,Would buy again,,2025-05-20
+980,2740,93,1380,4,Excellent,Product matched the description,2025-02-03
+981,2744,341,1063,5,Fast delivery,,2025-10-08
+982,2750,299,801,3,Poor quality,,2024-08-20
+983,2752,18,24,5,Average experience,,2024-10-25
+984,2753,320,1307,3,Great value,,2025-07-26
+985,2754,230,1182,4,Average experience,Product matched the description,2025-10-22
+986,2756,388,657,3,As expected,Value for money,2024-04-22
+987,2757,350,1123,3,Would buy again,,2024-06-17
+988,2762,383,895,5,Would buy again,,2024-02-09
+989,2765,51,386,5,Average experience,Delivery was slower than expected,2025-08-02
+990,2767,275,296,5,As expected,Value for money,2025-05-04
+991,2771,238,410,4,Poor quality,,2024-06-22
+992,2773,94,244,4,Average experience,,2024-12-23
+993,2777,338,570,3,Loved it,,2024-08-11
+994,2781,48,746,3,Loved it,,2025-07-23
+995,2783,183,194,5,Excellent,,2026-01-03
+996,2784,113,458,5,Disappointed,,2024-10-04
+997,2785,241,1211,5,Loved it,,2024-05-01
+998,2786,350,228,5,As expected,,2024-10-11
+999,2788,118,17,3,Excellent,,2025-12-12
+1000,2791,123,1768,5,Disappointed,Delivery was slower than expected,2024-04-16
+1001,2796,85,1558,4,Not worth it,,2025-11-19
+1002,2798,23,998,3,Not worth it,,2026-01-02
+1003,2804,416,1779,4,Fast delivery,Packaging could improve,2024-04-27
+1004,2810,76,695,5,Loved it,Product matched the description,2024-09-22
+1005,2811,31,1358,3,Average experience,Product matched the description,2024-10-20
+1006,2814,13,182,3,Would buy again,,2025-04-18
+1007,2815,98,1719,4,Poor quality,,2024-12-15
+1008,2816,256,100,5,Excellent,,2025-01-04
+1009,2817,394,300,5,Not worth it,Packaging could improve,2024-10-12
+1010,2819,340,1658,3,Poor quality,,2025-01-07
+1011,2820,76,1726,4,Not worth it,Product matched the description,2025-01-04
+1012,2824,355,857,5,Poor quality,,2024-06-19
+1013,2826,216,239,2,Not worth it,,2025-01-23
+1014,2828,126,1432,5,Average experience,,2025-07-30
+1015,2829,366,1255,4,Fast delivery,Product matched the description,2026-01-15
+1016,2830,331,1646,5,Loved it,,2025-07-08
+1017,2831,339,906,4,Great value,,2025-07-24
+1018,2836,407,403,5,As expected,,2024-12-04
+1019,2840,345,1498,4,Poor quality,,2025-02-01
+1020,2841,96,322,5,Poor quality,,2024-07-01
+1021,2842,248,1547,5,Would buy again,Product matched the description,2025-11-21
+1022,2845,33,923,5,Disappointed,Packaging could improve,2025-08-05
+1023,2849,222,1641,5,As expected,,2024-06-11
+1024,2850,189,971,5,Poor quality,Value for money,2025-12-28
+1025,2857,202,559,5,Great value,Delivery was slower than expected,2024-07-31
+1026,2861,412,999,4,Great value,,2025-11-08
+1027,2863,410,1764,4,Not worth it,,2025-08-20
+1028,2864,223,407,4,As expected,,2024-12-19
+1029,2868,214,162,5,As expected,Delivery was slower than expected,2025-07-31
+1030,2869,323,46,3,As expected,,2024-02-15
+1031,2871,273,1141,4,Average experience,,2025-12-25
+1032,2877,61,206,1,Poor quality,,2024-06-21
+1033,2878,215,37,5,Would buy again,,2025-01-14
+1034,2886,225,5,4,Fast delivery,,2024-05-21
+1035,2887,291,1728,3,Poor quality,,2025-10-08
+1036,2893,410,378,5,Excellent,Value for money,2025-10-18
+1037,2896,150,420,4,Loved it,,2024-10-04
+1038,2897,296,593,3,Average experience,,2025-11-17
+1039,2898,174,621,5,Excellent,Product matched the description,2025-01-24
+1040,2899,290,1814,2,Average experience,,2024-06-20
+1041,2902,144,891,4,Not worth it,,2024-06-26
+1042,2906,203,780,5,Average experience,Value for money,2025-11-11
+1043,2907,239,284,5,As expected,Product matched the description,2025-08-29
+1044,2908,220,780,4,Loved it,Product matched the description,2025-12-21
+1045,2909,39,483,3,Fast delivery,,2024-01-13
+1046,2911,154,462,4,Fast delivery,Delivery was slower than expected,2024-05-05
+1047,2915,8,1688,3,Fast delivery,Value for money,2025-11-09
+1048,2918,264,933,5,Excellent,,2025-07-22
+1049,2920,266,75,4,Poor quality,,2025-12-30
+1050,2925,200,1280,5,As expected,Value for money,2024-11-12
+1051,2926,172,1639,4,Excellent,Delivery was slower than expected,2025-12-01
+1052,2927,37,408,5,As expected,,2025-08-26
+1053,2930,348,1586,3,Loved it,,2025-06-23
+1054,2936,125,404,4,Average experience,,2024-11-06
+1055,2938,39,322,5,Average experience,,2024-06-07
+1056,2939,412,153,5,Poor quality,,2024-12-19
+1057,2942,172,1280,4,Poor quality,Product matched the description,2025-08-22
+1058,2945,29,260,5,Would buy again,,2025-11-09
+1059,2951,296,1654,2,Fast delivery,,2025-07-03
+1060,2953,225,1145,3,Excellent,Product matched the description,2024-12-20
+1061,2954,100,1447,5,Loved it,,2024-12-01
+1062,2956,219,201,5,Would buy again,Delivery was slower than expected,2024-10-05
+1063,2959,407,899,3,Great value,,2025-06-24
+1064,2960,72,1238,5,Would buy again,Value for money,2024-05-09
+1065,2961,298,863,3,Loved it,,2024-11-15
+1066,2963,317,1294,3,Excellent,Value for money,2024-12-21
+1067,2965,171,13,3,Would buy again,Product matched the description,2025-01-26
+1068,2966,160,1101,4,Not worth it,,2024-04-07
+1069,2967,45,1614,5,As expected,,2025-09-21
+1070,2968,70,899,5,Not worth it,Delivery was slower than expected,2025-03-03
+1071,2973,67,444,4,Not worth it,,2025-05-28
+1072,2976,69,1037,5,Great value,Value for money,2024-12-06
+1073,2980,3,982,5,Fast delivery,,2024-08-07
+1074,2981,175,604,5,Great value,,2024-12-27
+1075,2982,106,722,5,Great value,,2024-03-27
+1076,2984,403,1404,5,Poor quality,Packaging could improve,2025-09-22
+1077,2985,130,1671,3,Loved it,,2024-06-22
+1078,2990,56,278,4,Disappointed,,2024-09-15
+1079,2992,80,1053,4,Poor quality,Value for money,2025-12-23
+1080,2998,204,1275,5,Would buy again,,2024-07-02
+1081,3001,24,556,3,Excellent,,2024-06-22
+1082,3002,342,878,4,Disappointed,Delivery was slower than expected,2024-11-03
+1083,3004,219,530,4,Poor quality,,2024-05-29
+1084,3005,118,119,4,Poor quality,Product matched the description,2024-06-05
+1085,3010,189,1107,3,Fast delivery,Product matched the description,2025-09-28
+1086,3011,213,1222,4,Disappointed,Delivery was slower than expected,2024-06-21
+1087,3012,226,855,4,Great value,,2025-07-06
+1088,3014,212,1564,4,Would buy again,,2024-10-22
+1089,3020,388,1265,3,Poor quality,Packaging could improve,2025-04-09
+1090,3024,413,1142,5,Would buy again,Value for money,2025-05-17
+1091,3027,86,1559,4,As expected,,2024-07-27
+1092,3028,218,573,5,Fast delivery,,2025-01-10
+1093,3030,371,387,5,Excellent,Delivery was slower than expected,2024-02-11
+1094,3035,293,1636,3,Average experience,Delivery was slower than expected,2024-10-07
+1095,3038,266,717,5,Great value,,2025-11-12
+1096,3041,333,405,3,Great value,Delivery was slower than expected,2025-03-24
+1097,3042,84,713,2,Would buy again,,2025-05-02
+1098,3047,305,1314,4,Poor quality,Packaging could improve,2024-10-17
+1099,3052,7,1790,4,Fast delivery,,2024-09-12
+1100,3053,65,259,5,Excellent,Delivery was slower than expected,2024-02-07
+1101,3055,286,156,4,As expected,,2025-12-06
+1102,3056,223,614,4,Disappointed,Delivery was slower than expected,2024-09-25
+1103,3057,86,1649,4,Poor quality,,2025-06-23
+1104,3060,14,465,5,Disappointed,,2024-11-20
+1105,3064,252,360,5,Poor quality,,2025-07-06
+1106,3078,46,265,4,Excellent,Product matched the description,2024-07-03
+1107,3085,41,959,5,As expected,Value for money,2024-12-24
+1108,3091,318,16,5,Average experience,Product matched the description,2024-12-17
+1109,3094,153,525,5,Fast delivery,Product matched the description,2025-10-21
+1110,3098,149,574,2,Excellent,,2024-07-17
+1111,3104,126,436,4,Loved it,Delivery was slower than expected,2025-09-09
+1112,3105,189,89,4,Great value,,2025-04-02
+1113,3106,359,1155,5,Average experience,,2025-12-13
+1114,3107,125,1052,5,Not worth it,,2025-03-09
+1115,3113,262,1105,5,Fast delivery,,2025-02-19
+1116,3115,258,321,3,Would buy again,Delivery was slower than expected,2025-09-17
+1117,3116,56,62,4,Disappointed,Packaging could improve,2024-07-02
+1118,3123,183,667,5,Not worth it,Value for money,2024-09-04
+1119,3125,224,224,2,Poor quality,Product matched the description,2025-06-30
+1120,3126,293,660,3,Poor quality,,2024-12-03
+1121,3130,300,560,4,Not worth it,,2025-05-31
+1122,3138,230,917,4,Would buy again,,2025-11-11
+1123,3139,226,1176,5,Excellent,,2024-12-21
+1124,3140,419,823,3,Loved it,Packaging could improve,2025-12-17
+1125,3141,14,1605,4,Loved it,Delivery was slower than expected,2024-09-30
+1126,3142,270,1302,5,Average experience,,2024-07-02
+1127,3145,384,1125,3,Disappointed,,2025-03-17
+1128,3146,120,966,5,Would buy again,Delivery was slower than expected,2026-01-29
+1129,3147,417,829,4,Would buy again,Packaging could improve,2024-11-19
+1130,3148,67,535,4,Would buy again,,2025-10-21
+1131,3158,223,440,5,Disappointed,Value for money,2025-03-12
+1132,3161,118,251,5,Not worth it,Product matched the description,2025-07-08
+1133,3162,50,632,4,Would buy again,,2026-01-14
+1134,3165,82,1397,3,Average experience,,2025-03-03
+1135,3167,21,706,3,Average experience,Product matched the description,2026-01-03
+1136,3172,57,920,4,Average experience,Packaging could improve,2025-07-04
+1137,3177,272,406,4,As expected,,2025-09-12
+1138,3182,351,1210,3,Loved it,Product matched the description,2025-08-28
+1139,3185,105,616,2,Average experience,,2024-10-14
+1140,3196,112,1179,5,Not worth it,,2026-01-17
+1141,3199,129,63,4,Poor quality,,2024-04-29
+1142,3203,28,721,5,Fast delivery,,2024-12-27
+1143,3214,41,1256,5,Excellent,,2024-05-28
+1144,3217,275,210,4,As expected,Product matched the description,2024-07-16
+1145,3219,85,1503,4,Fast delivery,Product matched the description,2025-10-14
+1146,3221,69,1649,4,Average experience,,2024-08-26
+1147,3227,70,1486,3,As expected,Value for money,2024-02-27
+1148,3228,334,1621,3,Would buy again,,2024-11-27
+1149,3231,346,1023,4,As expected,Packaging could improve,2024-06-29
+1150,3235,7,76,3,Not worth it,,2024-07-26
+1151,3238,167,1731,5,Disappointed,Delivery was slower than expected,2024-04-28
+1152,3240,177,386,3,Disappointed,Packaging could improve,2025-11-20
+1153,3241,206,1245,4,Disappointed,Value for money,2024-10-18
+1154,3242,280,998,5,Disappointed,Packaging could improve,2026-01-13
+1155,3243,49,611,5,Fast delivery,,2024-01-23
+1156,3244,143,1154,5,Great value,,2025-04-20
+1157,3245,178,1512,5,Great value,,2026-01-09
+1158,3246,78,1396,4,Loved it,,2024-06-23
+1159,3247,271,1765,5,Not worth it,,2025-11-15
+1160,3248,221,1224,4,Loved it,,2024-11-26
+1161,3251,148,1285,4,Average experience,,2025-12-20
+1162,3254,130,1725,4,Would buy again,Delivery was slower than expected,2025-04-13
+1163,3261,260,324,3,As expected,Product matched the description,2025-08-07
+1164,3262,65,820,4,Disappointed,,2025-12-20
+1165,3263,29,1338,4,Would buy again,Packaging could improve,2024-10-24
+1166,3264,216,62,5,Fast delivery,,2025-09-25
+1167,3269,209,389,5,Average experience,Value for money,2024-02-25
+1168,3270,25,1460,2,Poor quality,,2025-02-25
+1169,3271,417,1430,4,Disappointed,Delivery was slower than expected,2025-12-31
+1170,3272,254,1792,4,As expected,,2025-06-30
+1171,3273,205,1049,3,Excellent,,2024-12-13
+1172,3275,16,1126,4,Excellent,,2025-05-28
+1173,3280,147,1319,4,Poor quality,Product matched the description,2024-07-15
+1174,3281,417,159,3,Excellent,Packaging could improve,2024-10-14
+1175,3282,120,1651,5,Not worth it,,2024-04-21
+1176,3285,26,1293,4,As expected,Product matched the description,2025-08-24
+1177,3289,22,328,5,Great value,,2024-06-21
+1178,3296,176,173,5,Disappointed,,2024-04-06
+1179,3297,66,744,4,Average experience,,2024-12-30
+1180,3301,328,1618,5,Would buy again,Product matched the description,2024-11-13
+1181,3305,283,1411,5,Excellent,,2024-01-22
+1182,3306,64,1370,4,Loved it,,2025-10-19
+1183,3311,290,864,5,Excellent,,2024-03-01
+1184,3312,406,1412,4,As expected,,2024-05-28
+1185,3317,57,33,3,Disappointed,,2024-11-26
+1186,3318,281,1788,4,Fast delivery,,2025-04-05
+1187,3323,344,1149,4,Great value,,2025-10-29
+1188,3324,139,670,2,Excellent,Product matched the description,2024-03-15
+1189,3325,196,955,4,Poor quality,,2024-04-12
+1190,3326,84,998,3,Average experience,Delivery was slower than expected,2025-01-07
+1191,3331,8,1251,5,Would buy again,,2024-04-21
+1192,3333,333,1438,4,As expected,,2024-06-29
+1193,3334,50,830,4,Excellent,Value for money,2024-03-22
+1194,3335,314,333,5,Loved it,,2024-12-02
+1195,3337,292,1499,5,Not worth it,,2025-07-27
+1196,3341,93,582,3,Loved it,,2024-11-29
+1197,3347,266,376,5,Loved it,,2025-10-31
+1198,3354,6,1318,4,Great value,,2025-02-26
+1199,3357,259,1618,4,Loved it,,2024-08-02
+1200,3365,351,1367,4,Great value,,2025-03-31
+1201,3369,289,17,3,Great value,Delivery was slower than expected,2024-06-19
+1202,3373,195,1159,5,As expected,Packaging could improve,2026-01-01
+1203,3374,60,343,3,Would buy again,Value for money,2025-01-19
+1204,3375,164,1596,5,As expected,Value for money,2024-07-08
+1205,3376,137,1662,4,Fast delivery,Packaging could improve,2024-02-15
+1206,3381,168,1796,4,Great value,,2025-04-18
+1207,3387,179,1215,5,Disappointed,,2025-01-12
+1208,3388,95,1375,5,Not worth it,,2024-10-09
+1209,3390,246,1595,4,Poor quality,,2025-05-07
+1210,3391,67,763,5,As expected,Product matched the description,2024-05-11
+1211,3392,8,580,4,Would buy again,Delivery was slower than expected,2024-08-19
+1212,3394,247,152,3,Poor quality,Value for money,2025-09-05
+1213,3395,243,463,3,Loved it,,2025-12-05
+1214,3398,152,1777,5,Poor quality,,2024-12-04
+1215,3399,133,1425,4,Would buy again,,2024-08-03
+1216,3402,333,813,4,As expected,,2025-06-26
+1217,3405,199,430,4,Great value,Value for money,2025-05-25
+1218,3407,15,744,5,Poor quality,,2024-07-22
+1219,3408,105,757,4,Average experience,,2025-02-28
+1220,3410,177,1044,4,Excellent,Packaging could improve,2024-02-17
+1221,3414,106,715,4,Poor quality,Product matched the description,2025-04-23
+1222,3418,282,664,3,Disappointed,,2025-04-01
+1223,3423,52,393,3,As expected,,2025-05-11
+1224,3425,346,1276,2,As expected,Product matched the description,2024-01-26
+1225,3427,296,744,4,Would buy again,,2025-08-13
+1226,3428,58,1698,4,As expected,,2025-08-18
+1227,3430,179,1196,5,Loved it,Packaging could improve,2024-04-27
+1228,3436,409,1140,4,Disappointed,,2024-09-26
+1229,3439,175,170,5,Average experience,,2025-12-01
+1230,3440,158,1564,5,Not worth it,,2024-06-25
+1231,3441,321,1188,5,Average experience,,2025-02-01
+1232,3444,208,915,4,Fast delivery,Value for money,2025-11-04
+1233,3448,134,1447,4,As expected,Value for money,2025-02-04
+1234,3453,322,970,2,Excellent,,2024-02-23
+1235,3456,255,287,4,Fast delivery,Product matched the description,2024-07-19
+1236,3457,68,412,3,Excellent,,2025-06-05
+1237,3461,215,380,3,Great value,,2025-08-15
+1238,3463,267,809,5,Poor quality,Delivery was slower than expected,2024-06-25
+1239,3470,10,1498,5,As expected,,2025-07-05
+1240,3471,89,159,3,Not worth it,,2024-05-26
+1241,3472,335,924,4,Excellent,Value for money,2025-05-19
+1242,3473,115,1365,4,Average experience,Value for money,2024-07-30
+1243,3476,318,1167,5,Great value,,2025-03-27
+1244,3477,122,101,3,Disappointed,,2024-02-23
+1245,3478,199,1024,4,Loved it,,2025-12-28
+1246,3479,278,990,5,Excellent,,2025-10-25
+1247,3481,343,1173,4,Would buy again,Value for money,2025-06-02
+1248,3482,114,1294,5,Not worth it,,2025-09-28
+1249,3483,409,432,5,Loved it,Packaging could improve,2025-10-17
+1250,3484,239,395,4,Loved it,,2025-05-20
+1251,3488,303,1180,5,Not worth it,,2024-07-28
+1252,3489,400,295,5,Average experience,Value for money,2025-08-24
+1253,3490,83,787,4,Loved it,,2025-03-14
+1254,3493,358,84,4,Poor quality,Value for money,2025-12-10
+1255,3497,363,550,5,Excellent,,2025-04-15
+1256,3500,209,1792,4,As expected,Packaging could improve,2025-01-27
+1257,3503,202,913,5,Great value,,2024-08-05
+1258,3508,294,189,5,Poor quality,Value for money,2025-01-30
+1259,3511,99,1363,4,Excellent,,2024-11-25
+1260,3515,256,1614,4,Average experience,,2025-05-07
+1261,3518,2,109,3,Not worth it,,2025-03-01
+1262,3521,139,1640,4,Fast delivery,,2025-03-02
+1263,3522,293,1129,3,Not worth it,Product matched the description,2025-08-11
+1264,3531,307,1082,3,Disappointed,Value for money,2024-12-28
+1265,3532,221,843,5,As expected,,2024-04-07
+1266,3537,357,1039,5,As expected,Product matched the description,2025-04-14
+1267,3538,247,393,2,Would buy again,,2025-09-19
+1268,3541,185,585,3,Average experience,,2025-11-15
+1269,3545,381,801,4,Excellent,,2024-02-03
+1270,3546,81,1003,5,Excellent,,2025-04-13
+1271,3547,395,1012,5,Loved it,Value for money,2024-07-26
+1272,3548,22,558,4,Poor quality,Delivery was slower than expected,2024-03-17
+1273,3553,356,1329,4,Loved it,,2024-04-03
+1274,3554,37,1363,4,Average experience,Delivery was slower than expected,2026-01-23
+1275,3556,77,38,4,Excellent,,2025-12-12
+1276,3563,321,854,2,Disappointed,Delivery was slower than expected,2024-06-24
+1277,3567,236,496,5,Loved it,Product matched the description,2025-08-06
+1278,3570,299,1171,3,Would buy again,Product matched the description,2025-05-18
+1279,3571,136,1496,4,Disappointed,,2024-11-12
+1280,3577,390,1760,3,Excellent,,2024-10-19
+1281,3579,279,878,5,Disappointed,Delivery was slower than expected,2025-02-04
+1282,3580,383,54,5,Would buy again,,2024-10-26
+1283,3583,306,1378,5,Disappointed,,2025-04-09
+1284,3585,27,456,4,Excellent,Value for money,2025-01-04
+1285,3588,163,1218,4,Not worth it,,2025-02-10
+1286,3590,338,106,3,Great value,,2025-08-26
+1287,3591,190,731,4,Great value,,2025-09-14
+1288,3594,33,1308,5,Poor quality,,2024-12-30
+1289,3598,175,706,5,Disappointed,Delivery was slower than expected,2024-04-16
+1290,3599,280,432,1,Would buy again,,2026-01-22
+1291,3601,102,930,5,Loved it,,2024-07-31
+1292,3604,415,797,4,Fast delivery,Delivery was slower than expected,2024-04-04
+1293,3608,338,209,5,Would buy again,Product matched the description,2025-01-16
+1294,3611,36,785,2,Average experience,Value for money,2024-12-15
+1295,3615,220,1297,5,Fast delivery,Packaging could improve,2026-01-03
+1296,3622,375,664,3,Average experience,,2025-07-12
+1297,3626,411,637,2,Poor quality,Product matched the description,2025-05-27
+1298,3630,15,942,5,Excellent,Value for money,2024-05-01
+1299,3632,395,142,5,Loved it,,2025-03-21
+1300,3633,37,1800,4,Average experience,,2025-05-07
+1301,3634,263,451,4,As expected,,2024-11-27
+1302,3635,4,1491,3,Great value,Delivery was slower than expected,2024-08-03
+1303,3637,148,1799,5,Would buy again,,2024-05-10
+1304,3639,359,189,4,Poor quality,Packaging could improve,2024-03-18
+1305,3642,43,1554,4,Poor quality,Packaging could improve,2025-02-04
+1306,3644,144,149,4,As expected,Value for money,2024-11-17
+1307,3648,345,112,4,As expected,Value for money,2024-04-10
+1308,3649,43,1406,1,Fast delivery,,2025-09-09
+1309,3650,15,1412,4,As expected,Packaging could improve,2025-11-26
+1310,3651,146,85,4,Great value,,2025-09-27
+1311,3653,376,567,4,Fast delivery,Packaging could improve,2025-01-27
+1312,3659,113,891,5,As expected,Product matched the description,2024-07-11
+1313,3660,197,1463,4,Excellent,,2024-10-01
+1314,3661,141,1558,3,Excellent,,2024-10-07
+1315,3662,360,1123,4,Loved it,Product matched the description,2024-10-02
+1316,3663,380,1506,5,Average experience,,2025-04-29
+1317,3664,322,1019,2,Loved it,Delivery was slower than expected,2024-11-02
+1318,3674,153,1122,4,Loved it,,2025-05-12
+1319,3676,256,308,3,Would buy again,,2025-02-04
+1320,3677,166,1244,3,Great value,Packaging could improve,2025-05-14
+1321,3683,190,91,4,Fast delivery,,2025-12-25
+1322,3688,411,107,2,Not worth it,,2025-04-01
+1323,3691,124,636,4,Fast delivery,Delivery was slower than expected,2024-12-13
+1324,3692,363,536,4,Excellent,Product matched the description,2025-09-12
+1325,3699,273,1072,4,Would buy again,Value for money,2026-01-11
+1326,3704,278,1267,4,Fast delivery,Product matched the description,2025-10-08
+1327,3705,20,526,5,Would buy again,Packaging could improve,2024-07-03
+1328,3712,136,608,5,Not worth it,Product matched the description,2024-03-16
+1329,3720,385,360,5,Great value,Value for money,2025-12-22
+1330,3722,78,587,4,Disappointed,,2025-03-10
+1331,3723,85,293,5,Excellent,,2025-10-02
+1332,3724,15,1178,4,Disappointed,,2024-03-07
+1333,3725,208,1677,4,Fast delivery,,2024-09-25
+1334,3729,366,89,3,Fast delivery,,2024-08-31
+1335,3731,55,1232,3,Great value,Delivery was slower than expected,2025-10-21
+1336,3735,204,1559,4,As expected,,2025-12-20
+1337,3740,24,95,3,Fast delivery,,2025-04-17
+1338,3741,146,47,3,Average experience,,2024-08-17
+1339,3742,17,1243,3,Average experience,Delivery was slower than expected,2025-01-12
+1340,3748,30,1519,4,Poor quality,Value for money,2025-12-16
+1341,3752,199,1401,4,Poor quality,,2025-11-16
+1342,3753,140,170,3,Fast delivery,,2025-08-20
+1343,3754,228,1159,5,Would buy again,,2024-09-28
+1344,3756,12,1061,3,Not worth it,Packaging could improve,2024-12-03
+1345,3758,168,1442,3,Not worth it,Packaging could improve,2025-05-03
+1346,3760,142,1183,4,Poor quality,Packaging could improve,2025-09-14
+1347,3762,65,1482,4,Disappointed,Packaging could improve,2024-12-31
+1348,3763,386,1202,4,Great value,Value for money,2025-11-07
+1349,3768,321,635,3,Excellent,Packaging could improve,2024-12-10
+1350,3770,19,1268,4,As expected,Packaging could improve,2024-06-18
+1351,3771,104,717,4,Average experience,Product matched the description,2025-06-08
+1352,3772,204,1554,4,Fast delivery,Delivery was slower than expected,2024-07-09
+1353,3774,210,1328,4,Not worth it,Delivery was slower than expected,2025-05-13
+1354,3777,397,412,3,Excellent,,2025-07-08
+1355,3778,354,247,5,Not worth it,,2024-12-20
+1356,3780,347,1237,5,As expected,Delivery was slower than expected,2025-07-27
+1357,3783,266,445,4,Fast delivery,Value for money,2025-09-29
+1358,3785,318,1709,5,Great value,,2025-11-18
+1359,3786,75,1678,5,Average experience,,2025-10-10

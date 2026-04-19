@@ -1,0 +1,11 @@
+category_id,category_code,category_name,category_name_raw
+1,ELEC,Electronics,Electronics
+2,HOME,Home & Kitchen,Home and Kitchen
+3,FASH,Fashion, fashion 
+4,BEAU,Beauty,BEAUTY
+5,SPORT,Sports & Outdoors,Sports & Outdoors
+6,TOY,Toys & Games,Toys & Games
+7,BOOK,Books & Stationery,Books and Stationery
+8,GROC,Grocery,Grocery
+9,PET,Pet Supplies,Pet Supplies
+10,GARD,Garden & DIY,Garden & DIY
